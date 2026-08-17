@@ -1,2 +1,12 @@
-# shelob
-Bulk YAML file editor
+# Shelob
+
+Скрипт для быстрого редактирования большого количества yaml-файлов. Позволяет запоминать и переносить значения в токенах <any>, <any_1>, <any_2> ... <any_10> в пределах одного файла, (например пользовательские id)
+
+### Requirements
+
+- Python
+
+### Usage
+
+```python
+python3 shelob.py
